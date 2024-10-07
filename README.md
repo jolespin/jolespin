@@ -40,6 +40,4 @@ I am an interdisciplinary computational research scientist investigating topics 
 ### Aside from research:
 * I like to [produce music](https://soundcloud.com/o-rka/tracks) and [draw things](art/README.md)
 * I'm interested in [planentary intelligence](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
-* I like Zelda
-
 
