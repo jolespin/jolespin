@@ -38,7 +38,7 @@ I am an interdisciplinary computational research scientist investigating topics 
 * jolespin @ newatlantis . io
 
 ### Aside from research:
-* I like to [produce music](https://soundcloud.com/o-rka/tracks) and [draw things](https://github.com/jolespin/profile/tree/main/art)
+* I like to [produce music](https://soundcloud.com/o-rka/tracks) and [draw things](art/README.md)
 * I like to climb, cycle, and ocean-ify
 * I'm interested in [planentary intelligence](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 
