@@ -26,7 +26,7 @@ I am an interdisciplinary computational research scientist investigating topics 
 * *J. Craig Venter Institute* - Visiting Scientist
 
 ### Education:
-* Ph.D in Biotechnology, *Durban University of Technology* (2022). [Dissertation](https://openscholar.dut.ac.za/handle/10321/4701)
+* Ph.D in Biotechnology, *Durban University of Technology* (2022). [(Dissertation) doi:10.51415/10321/4701](https://openscholar.dut.ac.za/handle/10321/4701)
 * M.Sc in Bioinformatics, *University of California Santa Cruz* (2016)
 * B.Sc in Cellular and Molecular Biology, *San Diego State University* (2013)
 
