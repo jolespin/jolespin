@@ -43,7 +43,7 @@ I consider myself an environmentalist and while many of my projects investigate 
 * Developed a compositional feature engineering approach and an ensemble network analysis methodology that was extended for differential networks and sample-specific perturbation networks. These methods were developed to investigate dental caries and acute malnutrition but were also designed with broad applicability.
 	* [doi:10.1093/pnasnexus/pgac239](https://doi.org/10.1093/pnasnexus/pgac239)
 	* [doi:10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644)
-* Demonstrated how feature selection algorithm can be leveraged for identifying inferred interactions that are predictive of phenotypes.
+* Multi-modal biomarker discovery in sample-specific network analysis.
  	* [doi:10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644) 
 * Collaboratively identified beneficial microbes that are help corals withstand rising ocean temperatures.
 	* [doi:10.1126/sciadv.abg3088](https://www.science.org/doi/10.1126/sciadv.abg3088)
