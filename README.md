@@ -35,7 +35,7 @@ I am an interdisciplinary computational research scientist investigating topics 
 * [Google Scholar](https://scholar.google.com/citations?user=r9y1tTQAAAAJ&hl=en)
   
 ### Contact:
-* jolespin @ newatlantis . io
+* jol.espinoz @ gmail . com
 
 ### Aside from research:
 * I like to [produce music](https://soundcloud.com/o-rka/tracks) and [draw things](art/README.md)
