@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I am an interdisciplinary computational research scientist investigating topics in microbial ecology, systems biology, and natural product discovery. My expertise in multi-omics (primarily (meta)genomics), pipeline development, and machine learning/artificial intelligence has been validated by an extensive track record of >30 peer-reviewed publications (10 of which I am lead author) with over 2000 citations. My career objective is to use cutting-edge computational approaches to translate microbiome research into biotechnology and, thus, increase value on sustaining natural environmental systems.
 
 ### Affiliations:
-* *NewAtlantis Labs* - Head of Bioinformatics
+* *Oath Biome* - Senior Bioinformatics Scientist
 * *J. Craig Venter Institute* - Visiting Scientist
 
 ### Education:
