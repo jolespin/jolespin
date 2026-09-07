@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--<img src="profile.jpg" alt="isolated" width="300" class="center"/>-->
 
 ### About Me:
-I am an interdisciplinary computational research scientist investigating topics in microbial ecology, systems biology, and natural product discovery. My expertise in multi-omics (primarily (meta)genomics), pipeline development, and machine learning/artificial intelligence has been validated by an extensive track record of >30 peer-reviewed publications (10 of which I am lead author) with over 2000 citations. My career objective is to use cutting-edge computational approaches to translate microbiome research into biotechnology and, thus, increase value on sustaining natural environmental systems.
+I am an interdisciplinary computational research scientist investigating topics in microbial ecology, systems biology, and natural product discovery. My expertise is in multi-omics, pipeline development, and machine learning/artificial intelligence. My career objective is to use cutting-edge computational approaches to translate microbiome research into biotechnology and, thus, increase value on sustaining natural environmental systems.
 
 ### Affiliations:
 * *Oath Biome* - Senior Bioinformatics Scientist
@@ -31,7 +31,7 @@ I am an interdisciplinary computational research scientist investigating topics 
 * B.Sc in Cellular and Molecular Biology, *San Diego State University* (2013)
 
 ### Peer-Reviewed Publications: 
-* [GitHub Publications](https://github.com/jolespin/publications)
+* [Publications](https://github.com/jolespin/publications)
 * [Google Scholar](https://scholar.google.com/citations?user=r9y1tTQAAAAJ&hl=en)
   
 ### Contact:
